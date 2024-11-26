@@ -1,4 +1,6 @@
-# Cositas-que-he-programado-UwU
+# Cositas que he programado
+
+Pequeñp repositorio creado para enseñarle a un amigo a que me dedico.
 Esto es un poco lo que he hecho en el primer año de programación en Java.
 Esta todo tal y como lo entrege en su momento, asi se puede apreciar que no tenia ni idea de lo que hacia (no ha mejorado mucho la cosa).
 
